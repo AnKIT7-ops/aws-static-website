@@ -20,6 +20,6 @@ User ──HTTPS──▶ CloudFront (CDN) ──OAC──▶ Private S3 bucket 
 
 - Amazon S3, Amazon CloudFront, AWS IAM
 - HTML, CSS
-- Git & GitHub
+
 
 
